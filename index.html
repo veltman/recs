@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+  	<head>
+	    <title>Travel recommendations</title>
+	    <meta charset="utf-8">
+	    <link href="http://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet" type="text/css">
+	    <link href="markdown.css" rel="stylesheet" />	    
+	    <script type="text/javascript">
+
+	      var _gaq = _gaq || [];
+	      _gaq.push(['_setAccount', 'UA-25567829-1']);
+	      _gaq.push(['_setDomainName', '.noahveltman.com']);
+	      _gaq.push(['_trackPageview']);
+
+	      (function() {
+	        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	      })();
+
+	    </script>
+	    <style>
+	    	div#header {
+	    		font-size: 38px;
+	    		font-weight: bold;
+	    		margin-top: 12px;
+	    		color: steelblue;
+	    	}
+
+	    	div#menu {
+	    		font-weight: bold;
+	    		font-size: 18px;
+	    		margin: 18px 0px;
+	    	}
+
+	    	div#menu a {
+	    		text-decoration: none;
+	    		color: steelblue;	    		
+	    		margin-left: 12px;
+	    		padding: 2px 4px;
+	    		border-radius: 3px;
+	    		-moz-border-radius: 3px;
+	    		-webkit-border-radius: 3px;
+	    	}
+
+	    	div#menu a:hover {
+	    		text-decoration: underline;
+	    	}
+
+	    	div#menu a.highlighted:hover {
+	    		text-decoration: none;
+	    	}
+
+	    	div#menu a:first-of-type {
+	    		margin-left: 6px;
+	    	}
+
+	    	div#menu a.highlighted {
+	    		background-color: steelblue;
+	    		color: white;
+	    	}
+
+	    	div#instructions {
+	    		margin-top: 18px;
+	    		font-size: 18px;
+	    	}
+
+	    </style>
+  	</head>  
+	<body>
+		<div id="header">Travel recommendations</div>
+		<div id="menu"><span>Cities:&nbsp;</span></div>
+		<div id="content"><div id="instructions"><em>Click a city for a list of recommendations.</em></div></div>
+	</body>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script src="markdown.min.js"></script>
+	<script src="hashnav.min.js"></script>
+	<script>
+
+		$menu = $("div#menu");
+		$content = $("div#content");
+
+		$.get("list.json",function(list) {			
+			
+			for (var stub in list) {
+				$menu.append('<a id="stub_'+stub+'" href="#'+stub+'">'+list[stub]+'</a>');
+			}
+
+		},"json");
+
+	    function hashChange(hash) {            
+	        if (hash.raw.length) {
+	        	$.get(hash.raw+"/README.md",function(md) {			
+					$content.html(markdown.toHTML(md));
+					$("div#menu a").removeClass("highlighted");
+					$("a#stub_"+hash.raw).addClass("highlighted");
+				}).fail(function() {
+          			console.log(hash.raw+" does not exist.");
+        		});
+	        } else {
+
+	        }
+	    }
+
+    	initHashNav(hashChange);
+
+	</script>
+</html>
