@@ -33,7 +33,6 @@ Walks
 -----
 
 * One of my favorite walks is to start in the West End, walk north through Regent's Park to Primrose Hill (the actual hill), enjoy the view, and then go through Primrose Hill (the neighborhood of same name) and over to Camden.
-* Richmond Park in the SW corner of the city is a beautiful, sprawling park.  It's full of nice areas to walk around, and it doubles as a wildlife reserve complete with 600+ deer roaming the park.
 * Another great area to walk around is Highbury/Islington/Angel.  You could start at the Highbury & Islington station and make your way south, or start in Central London and head north.
 * Shoreditch is the center of hipster London, that's where you should go for funky boutiques, artsy graffiti, and elaborate mustaches. Brick Lane is fun on the weekends, it becomes a big cluster of different mini-markets.
 * The South Bank is a great walk, the entire stretch from Lambeth Bridge to Tower Bridge has a walkway along the river with nice views and lots of things along the way (the London Eye, the Queen Elizabeth Hall Market, the HMS Belfast, the Tate Modern, etc.).
@@ -75,5 +74,5 @@ Miscellaneous
 * Oxford Street and Knightsbridge are two big shopping areas.  Needless to say, I haven't spent much time in them!
 * I'm not usually one for organized tours, but the Jack the Ripper walking tour that leaves from Tower Hill station every night is a good one.  Try to go on one of the nights when Donald Rumbelow is leading it (see [this schedule](http://www.jacktheripperwalk.com/index2.html)).
 * The food halls at Selfridge's, Fortnum & Mason, or Harrod's, if you're into that sort of thing.
-* Of London's many parks, my favorite is Regent's Park.  Richmond Park is also pretty cool, but also far away from central London.
+* Of London's many parks, my favorite is Regent's Park.  Richmond Park is also really beautiful and well worth the trip if you've got several days in town, but it's a lot farther out from central London.
 * I don't know much about hotels, but have heard good things about [Town Hall](http://townhallhotel.com/home), which is reasonably priced by London standards. In general I'd recommend staying in East London or the South Bank. It's easy to get around, and if you try somewhere central it will cost you a billion dollars and be a shoebox.
