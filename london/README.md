@@ -33,6 +33,7 @@ Walks
 -----
 
 * One of my favorite walks is to start in the West End, walk north through Regent's Park to Primrose Hill (the actual hill), enjoy the view, and then go through Primrose Hill (the neighborhood of same name) and over to Camden.
+* Richmond Park in the SW corner of the city is a beautiful, sprawling park.  It's full of nice areas to walk around, and it doubles as a wildlife reserve complete with 600+ deer roaming the park.
 * Another great area to walk around is Highbury/Islington/Angel.  You could start at the Highbury & Islington station and make your way south, or start in Central London and head north.
 * Shoreditch is the center of hipster London, that's where you should go for funky boutiques, artsy graffiti, and elaborate mustaches. Brick Lane is fun on the weekends, it becomes a big cluster of different mini-markets.
 * The South Bank is a great walk, the entire stretch from Lambeth Bridge to Tower Bridge has a walkway along the river with nice views and lots of things along the way (the London Eye, the Queen Elizabeth Hall Market, the HMS Belfast, the Tate Modern, etc.).
@@ -48,6 +49,7 @@ Museums
 * If you like weird stuff, the Hunterian Museum at the Royal College of Surgeons has a great collection of medical artifacts and oddities (some of them rather gruesome).
 * The British Library, near King's Cross Station, has an interesting collection of old documents/books, and rotating exhibits on things like antique postage stamps.
 * The Royal Observatory in Greenwich is kind of neat, and Greenwich makes for a nice half-day excursion.
+* The Horniman Museum in South London is mostly focused on evolutionary biology, but also has an eclectic collection of musical instruments and other cultural artifacts.
 * The British Museum, of course.
 
 Transportation
