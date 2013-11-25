@@ -19,6 +19,7 @@ Food
 * Tea & Tattle - A little tea shop below a bookstore across the street from the British Museum.  A good option for a casual afternoon tea if you're in the area.  A much fancier, more traditional afternoon tea option is the [Lanesborough Hotel](http://www.lanesborough.com/).
 * Beigel Bake - Jewish deli open 24/7 on Brick Lane.  Get a salt beef beigel.
 * [Cha Cha Moon](http://www.chachamoon.com/) - A lowkey Asian noodle place near Oxford Circus I'm fond of.  Order the mooli cakes.
+* [St. John's](https://www.stjohngroup.uk.com/) - Great food, fairly meat-focused with lots of uncommon dishes like game, organ meats, and bone marrow.  Has two locations, a fancier restaurant near Barbican and a more casual, small plates restaurant near Spitalfields.
 * The bar with no name at 69 Colebrooke Row - for cocktails.  Cocktails are food, right?  Located near the Angel tube station.  [The Lucky Pig](http://theluckypig.co.uk/) is another nice cocktail bar that's surprisingly low-key on weekdays.
 * Non-specific: Turkish food in Dalston, Vietnamese food on "Pho Mile" in Shoreditch, Caribbean food in Brixton.
 
